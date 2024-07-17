@@ -39,7 +39,7 @@ Below you can see a full description of the features from the dataset:
 
 ## D) Content
 The main parts of this project are:
-1) Data Cleaning and feature engineering
+1) Data Cleaning and Preprocessing
 2) EDA
 3) Modeling
 4) Comparing Results
